@@ -1,14 +1,4 @@
-<html lang="en" data-default-color-scheme="&quot;auto&quot;" data-user-color-scheme="light" class=" "><head>
-  <meta charset="UTF-8">
-  <link rel="apple-touch-icon" sizes="76x76" href="/img/kiwi_fruit.png">
-  <link rel="icon" type="image/png" href="/img/kiwi_fruit.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  
-  <meta name="theme-color" content="#2f4154">
-  <meta name="description" content="">
-  <meta name="author" content="Glooow">
-  <meta name="keywords" content="">
+
   <title>爱在西元前</title>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
