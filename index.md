@@ -1,9 +1,45 @@
-## Welcome to GitHub Pages
+<html lang="en" data-default-color-scheme="&quot;auto&quot;" data-user-color-scheme="light" class=" "><head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/kiwi_fruit.png">
+  <link rel="icon" type="image/png" href="/img/kiwi_fruit.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="">
+  <meta name="author" content="Glooow">
+  <meta name="keywords" content="">
+  <title>爱在西元前</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link rel="stylesheet" href="/css/main.css">
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.7","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"onlypost":false},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}}};
+  </script>
+  <script src="/js/utils.js"></script>
+  <script src="/js/color-schema.js"></script>
+<meta name="generator" content="Hexo 5.3.0"><script type="text/javascript" defer="" src="//busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback_657343534925" referrerpolicy="no-referrer-when-downgrade"></script></head>
+
+
 <body>
   <header style="height: 100vh;">
     <nav id="navbar" class="navbar fixed-top navbar-expand-lg scrolling-navbar top-nav-collapse">
   <div class="container">
-    <a class="navbar-brand" href="/">&nbsp;<strong>Galaxy</strong>&nbsp;</a>
+    <a class="navbar-brand" href="/">&nbsp;<strong>Glooow</strong>&nbsp;</a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <div class="animated-icon"><span></span><span></span><span></span></div>
@@ -12,7 +48,7 @@
     <!-- Collapsible content -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto text-center">
-        
+                
           
           
           
@@ -100,7 +136,7 @@
   </div>
 </nav>
 
-    <div class="banner" id="banner" parallax="true" style="background: url(&quot;/img/bus.jpg&quot;) center center / cover no-repeat; transform: translate3d(0px, 96px, 0px);">
+    <div class="banner" id="banner" parallax="true" style="background: url(&quot;/img/bus.jpg&quot;) center center / cover no-repeat; transform: translate3d(0px, 40px, 0px);">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
           <div class="page-header text-center fade-in-up">
@@ -132,244 +168,7 @@
 
   <div class="row mx-auto index-card">
     
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2019/12/10/signal-processing/particle%20filter/">Particle Filter</a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2019/12/10/signal-processing/particle%20filter/">
-          
-          
-            
-          
-          今天我们来讲一下粒子滤波算法，这也是我在学习过程中的一个笔记，由于有很多的个人理解，有不对的地方欢迎大家批评指正。
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2019-12-10 19:37" pubdate="">
-              2019-12-10
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/Signal-Processing/">Signal Processing</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/%E6%BB%A4%E6%B3%A2%E7%AE%97%E6%B3%95/">滤波算法</a>
-            
-              <a href="/tags/%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/">粒子滤波</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2019/11/09/hello-world/">Hello World</a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2019/11/09/hello-world/">
-          
-          
-            
-          
-          Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
-Quick
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2019-11-09 17:12" pubdate="">
-              2019-11-09
-            </time>
-          </div>
-        
-        
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2003/06/04/software/mathematica/">Mathematica激活</a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2003/06/04/software/mathematica/">
-          
-          
-            
-          
-          Mathematica激活方法：安装好之后启动软件，选择其他方式激活 &gt;&gt; 手动激活 &gt;&gt; 输入激活密钥和密码。
-根据 Math ID 生成激活密钥和密码的链接，Math ID 在需要输入激活密钥和密码的那里可以看到。
-
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2003-06-04 09:45" pubdate="">
-              2003-06-04
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/Software/">Software</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Mathematica/">Mathematica</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2002/08/05/software/acrobat/">Adobe Acrobat Pro DC更新后提示登录激活问题</a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2002/08/05/software/acrobat/">
-          
-          
-            
-          
-          Adobe Acrobat Pro DC 更新之后不能直接用 AMTEmu v0.9.2 激活了。
-不过只需要修改以下注册表再重新激活就可以了。
-通过 win+R 输入 regedit 打开注册表，在以下位置处
-1[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Adobe\Adobe Acrobat\DC\Activation] 
-创建一个 DWORD(32位) 
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2002-08-05 20:17" pubdate="">
-              2002-08-05
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/Software/">Software</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Adobe/">Adobe</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-
-
-  <nav aria-label="navigation">
-    <span class="pagination" id="pagination">
-      <a class="extend prev" rel="prev" href="https://glooow1024.github.io/page/9/#board"><i class="iconfont icon-arrowleft"></i></a><a class="page-number" href="https://glooow1024.github.io/#board">1</a><span class="space">…</span><a class="page-number" href="https://glooow1024.github.io/page/8/#board">8</a><a class="page-number" href="https://glooow1024.github.io/page/9/#board">9</a><span class="page-number current">10</span>
-    </span>
-  </nav>
-  
-  <script>
-    for (ele of document.getElementById("pagination").getElementsByTagName("a")) {
-      ele.href += '#board';
-    }
-  </script>
-
-
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-
-    
-      <a id="scroll-top-button" href="#" role="button" style="bottom: 20px; right: 20.6666px;">
-        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
-      </a>
-    
-
-    
-      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header text-center">
-        <h4 class="modal-title w-100 font-weight-bold">Search</h4>
-        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
-      </div>
-      <div class="modal-body mx-3">
-        <div class="md-form mb-5">
-          <input type="text" id="local-search-input" class="form-control validate">
-          <label data-error="x" data-success="v" for="local-search-input">keyword</label>
-        </div>
-        <div class="list-group" id="local-search-result"></div>
-      </div>
-    </div>
-  </div>
-</div>
-    
-
-    
-  </main>
+     </main>
 
   <footer class="text-center mt-5 py-3">
   <div class="footer-content">
@@ -383,17 +182,17 @@ Quick
     
       
         <!-- 不蒜子统计PV -->
-        <span id="busuanzi_container_site_pv" style="display: inline;">
+        <span id="busuanzi_container_site_pv" style="display: none">
             总访问量 
-            <span id="busuanzi_value_site_pv">22355</span>
+            <span id="busuanzi_value_site_pv"></span>
              次
           </span>
       
       
         <!-- 不蒜子统计UV -->
-        <span id="busuanzi_container_site_uv" style="display: inline;">
+        <span id="busuanzi_container_site_uv" style="display: none">
             总访客数 
-            <span id="busuanzi_value_site_uv">8650</span>
+            <span id="busuanzi_value_site_uv"></span>
              人
           </span>
       
@@ -517,4 +316,5 @@ Quick
 
 
 
-</body>
+</body></html>
+
