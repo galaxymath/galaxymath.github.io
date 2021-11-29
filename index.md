@@ -3,7 +3,7 @@
   <header style="height: 100vh;">
     <nav id="navbar" class="navbar fixed-top navbar-expand-lg scrolling-navbar top-nav-collapse">
   <div class="container">
-    <a class="navbar-brand" href="/">&nbsp;<strong>Glooow</strong>&nbsp;</a>
+    <a class="navbar-brand" href="/">&nbsp;<strong>Galaxy</strong>&nbsp;</a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <div class="animated-icon"><span></span><span></span><span></span></div>
